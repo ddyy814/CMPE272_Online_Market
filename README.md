@@ -24,7 +24,7 @@ The app will read from contacts.txt into the website.
 
 In contact page, there is a SECURE SECTION, click "log in to have a look!" to log in.  
 The app will authenticate userid and password by comparing user input with password.txt.  
-userid and password:  
+userid and password examples:  
 > admin,admin123  
 user,user123  
 dog,bone  
@@ -44,7 +44,6 @@ tiger,meat
 In User page, there are two forms to be submitted. You could create a new user, and perform search action.  
 When you did not complete all tables(firstname/lastname/email/homeaddress/homephone/cellphone), you will fail to create a new user.  
 When you successfully created a new user, you'll find seach results increase by 1.
-![1](https://user-images.githubusercontent.com/33148410/96972625-93788d80-14cb-11eb-905f-a804864beeb6.jpg)
 
 #### 5. Tracking with Web Cookies
 > •	Modify the Products/Services section and add ten products/services in your company web site.  
